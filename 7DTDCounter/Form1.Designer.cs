@@ -52,12 +52,11 @@
             // 
             // lblOutput
             // 
-            this.lblOutput.AutoSize = true;
-            this.lblOutput.Location = new System.Drawing.Point(119, 139);
+            this.lblOutput.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.lblOutput.Location = new System.Drawing.Point(122, 138);
             this.lblOutput.Name = "lblOutput";
-            this.lblOutput.Size = new System.Drawing.Size(65, 17);
+            this.lblOutput.Size = new System.Drawing.Size(100, 26);
             this.lblOutput.TabIndex = 0;
-            this.lblOutput.Text = "lblOutput";
             // 
             // Form1
             // 
